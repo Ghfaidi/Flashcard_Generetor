@@ -1,0 +1,7 @@
+transformers
+install sentencepiecee
+keybert
+keybert[flair]
+keybert[gensim]
+keybert[spacy]
+keybert[use]
